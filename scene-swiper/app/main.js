@@ -9,13 +9,13 @@ require([
 
   var websceneTop = new WebScene({
    portalItem: {
-     id: "542a491cf6404c8fa7c5feb1fa1c4a9c"
+     id: "a13fa639f09e4dbca395e5b192876c52"
    }
   });
 
   var websceneBottom = new WebScene({
     portalItem: {
-      id: "54e49fb8f0d94642ab199599cc549478"
+      id: "767199eae13548ec823534889afb71fe"
     }
   });
 
